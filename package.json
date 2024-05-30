@@ -48,7 +48,6 @@
   "bugs": {
     "url": "https://github.com/techfort/LokiJS/issues"
   },
-  "dependencies": {},
   "devDependencies": {
     "istanbul": "^0.4.4",
     "jasmine": "^2.4.1",
@@ -60,9 +59,11 @@
     "karma-jasmine": "^1.0.2",
     "karma-phantomjs-launcher": "^1.0.1",
     "mocha": "^2.5.3",
-    "phantomjs": "^1.9.20",
     "rimraf": "^2.5.4",
     "should": "^4.6.5",
     "uglify-js": "^2.7.0"
+  },
+  "dependencies": {
+    "phantomjs-prebuilt": "^2.1.16"
   }
 }
