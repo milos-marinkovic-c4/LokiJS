@@ -62,8 +62,5 @@
     "rimraf": "^2.5.4",
     "should": "^4.6.5",
     "uglify-js": "^2.7.0"
-  },
-  "dependencies": {
-    "phantomjs-prebuilt": "^2.1.16"
   }
 }
